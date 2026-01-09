@@ -1,3 +1,1 @@
-This line is from main branch
-This line is from feature branch
-this is from main branch
+merge conflict resolved
